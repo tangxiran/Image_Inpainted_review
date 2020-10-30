@@ -7,3 +7,4 @@ github.com/tangxiran/old_method_inpaint
 里面有pconv,shift-net,edge-connect三个网络，的pytorch实现
 
 github.com/tangxiran/cnn_image_inpaint
+当然了，里面的图片数据都删掉了。为了保护隐私。
